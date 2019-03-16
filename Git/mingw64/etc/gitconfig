@@ -1,0 +1,5 @@
+[http]
+	sslBackend = openssl
+	sslCAInfo = C:/Users/Akhil/Desktop/11_FrAuDa_Pi_StudentEventPlatform-master/11_FrAuDa_Pi_StudentEventPlatform-master/Git/mingw64/ssl/certs/ca-bundle.crt
+[credential]
+	helper = manager
